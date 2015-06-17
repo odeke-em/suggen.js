@@ -1,0 +1,30 @@
+{
+    "author": "Emmanuel Odeke <odeke@ualberta.ca>",
+    "license": "MIT",
+    "description": "suggestions generator",
+    "name": "suggen.js",
+    "version": "0.0.1",
+    "main": "lib/index.js",
+    "engines": {
+        "node": "*"
+    },
+    "private": false,
+    "homepage": "https://github.com/odeke-em/suggen.js",
+    "bugs": {
+        "url": "https://github.com/odeke-em/suggen.js/issues"
+    },
+    "keywords": [
+        "suggestions",
+        "suggestions generator"
+    ],
+    "dependencies": {
+        "underscore": "1.8.2"
+    },
+    "scripts": {
+        "test": "mocha -R SPEC test/*test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url":  "git@github.com/odeke-em/suggen.js"
+    }
+}
