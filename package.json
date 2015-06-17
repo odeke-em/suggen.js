@@ -3,7 +3,7 @@
     "license": "MIT",
     "description": "suggestions generator",
     "name": "suggen.js",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "main": "lib/index.js",
     "engines": {
         "node": "*"
